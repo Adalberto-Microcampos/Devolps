@@ -1,0 +1,14 @@
+1- Acessa a conta no Git/ Criar repositório e copiar o link
+2 - Criar uma pasta local (Área de trabalho)
+3 - Abrir o Visual Studio Code
+4 - Associar a pasta local ao Git-hub
+	4.1 - Selecionar a pasta no VS Code
+	4.2 - Em Source Code - Inicializa o Repositório (Equivale o Git-Batch e o Git Init)
+	4.3 - Acessar o Show Git Output (...) (No segundo Source Code
+	4.4 - Acessar o Terminal (observe que a pasta está selecionada)
+	4.5 - git remote add origin https://github.com/Adalberto-Microcampos/teste.git -- https://github.com/Adalberto-Microcampos/Aulas.git
+5 - No item Explorer do VS COde Criar uma arquivo (Botão new do source code)
+6 - Salvar o arquivo na pasta local (save)
+7 - Para enviar incialmente clicar no icone Source Control e depois no V e pondo uma mensagem e confirmando que equivale ao git Add e git commit
+8 - Aplicar o Publish e virificar o git/conta
+9 - Para cada ajuste, raplicar
